@@ -117,7 +117,7 @@ frame = ctk.CTkFrame(root, corner_radius=20)
 frame.pack(fill="both", expand=True, padx=20, pady=20)
 
 # Title Label
-title_label = ctk.CTkLabel(frame, text="Temp File Cleaner", font=("Arial", 20, "bold"))
+title_label = ctk.CTkLabel(frame, text="TempSweep", font=("Arial", 20, "bold"))
 title_label.pack(side="top", pady=10)
 
 # Settings Button 
